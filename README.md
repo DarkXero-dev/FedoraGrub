@@ -1,4 +1,4 @@
-# Aurora Grub
+# Fedora Grub
 
 ### Info
 
